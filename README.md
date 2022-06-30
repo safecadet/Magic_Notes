@@ -2,4 +2,4 @@
 
 Website: https://safecadet.github.io/Magic_Notes/
 
-can add notes and serch also
+User can add notes, delete them and can also search for any notes that he/she has added.
